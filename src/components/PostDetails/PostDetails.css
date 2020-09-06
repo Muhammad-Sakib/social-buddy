@@ -1,0 +1,30 @@
+body{
+    background-color: #36485C;
+}
+.post{
+    
+    width: 40%;
+    margin: 30px auto 10px auto;
+    padding: 20px;
+    color: orange;
+    background-color: #36485C;
+    border-radius: 15px;
+    box-shadow: 5px 5px 6px 0 rgba(0, 0, 0, 0.15),-4px -4px 8px 0 rgba(255, 255, 255, 0.1);
+}
+.in-blk{
+    display: inline-block;
+    width: 65%;
+}
+.post img{
+    border-radius: 50%;
+    float: right;
+    margin-right: 40px;
+}
+.commentSection{
+    padding-top: 40px;
+    background: white;
+}
+.commentSection h1{
+    color: dimgray;
+    text-align: center;
+}
